@@ -38,3 +38,6 @@ DOI: [10.3390/electronics12020395](https://doi.org/10.3390/electronics12020395)
 3. Run the demonstration script:
    ```bash
    python main.py
+   ```
+
+*Developed for academic research purposes. Last updated May 2026.*
